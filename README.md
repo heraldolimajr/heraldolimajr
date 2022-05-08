@@ -29,9 +29,7 @@ Para acessar os códigos e slides de aulas, basta acessar o menu <b>"Repositorie
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heraldolimajr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>          
 
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **heraldolimajr/heraldolimajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
