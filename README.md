@@ -28,7 +28,7 @@ Materiais de aula do curso técnico em <b>Informática</b>:
 - [Lógica de Programação](https://github.com/heraldolimajr/logicaDeProgramacao)
 - [Programação I](#)
 - [Programação II](#)
-- [Segurança da Informação](#)
+- [Segurança da Informação](https://github.com/heraldolimajr/SegurancaDaInformacaoMedio)
 
 ### Contatos:
 <div>
