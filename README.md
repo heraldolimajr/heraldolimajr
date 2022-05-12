@@ -26,7 +26,7 @@ Materiais de aula do curso superior de <b>Tecnologia em Sistemas para Internet</
 Materiais de aula do curso técnico em <b>Informática</b>:
 - [Computação Gráfica](https://github.com/heraldolimajr/ComputacaoGrafica)
 - [Lógica de Programação](https://github.com/heraldolimajr/logicaDeProgramacao)
-- [Programação I](#)
+- [Programação I](https://github.com/heraldolimajr/ProgramacaoI)
 - [Programação II](#)
 - [Segurança da Informação](https://github.com/heraldolimajr/SegurancaDaInformacaoMedio)
 
