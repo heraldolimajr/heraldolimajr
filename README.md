@@ -3,7 +3,6 @@ Mestrando em Educação Profissional e Tecnológica<br/>
 Especialista em Gestão de Tecnologia da Informação<br/>
 Graduado em Licenciatura em Computação e em Análise e Desenvolvimento de Sistemas
 <br/>
-<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=php,java,wordpress,mysql,html,css,js)](https://skillicons.dev)
 
