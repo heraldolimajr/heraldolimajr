@@ -36,4 +36,4 @@ Materiais de aula do curso técnico em <b>Informática</b>:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jheraldolimajr.visitor-badge&left_text=MyPageVisitors)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
