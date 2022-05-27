@@ -1,11 +1,11 @@
 ## 👨🏼‍🏫 Prof. Heraldo Gonçalves Lima Jr. 
+
 Mestrando em Educação Profissional e Tecnológica<br/>
 Especialista em Gestão de Tecnologia da Informação<br/>
 Graduado em Licenciatura em Computação e em Análise e Desenvolvimento de Sistemas
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=php,java,wordpress,mysql,html,css,js)](https://skillicons.dev)
-
 
 
 <hr/>
@@ -29,11 +29,10 @@ Materiais de aula do curso técnico em <b>Informática</b>:
 </div>
 <br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heraldolimajr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jheraldolimajr.visitor-badge&left_text=MyPageVisitors)
      
 <br>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jheraldolimajr.visitor-badge&left_text=MyPageVisitors)
+
 
 
