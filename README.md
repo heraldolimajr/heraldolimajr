@@ -1,4 +1,4 @@
-## 👨🏼‍🏫 Prof. Heraldo Gonçalves Lima Jr. 
+## 👨‍💻 Prof. Heraldo Gonçalves Lima Jr. 
 
 Mestrando em Educação Profissional e Tecnológica<br/>
 Especialista em Gestão de Tecnologia da Informação<br/>
