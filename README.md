@@ -6,7 +6,7 @@ Graduado em Licenciatura em Computação e em Análise e Desenvolvimento de Sist
 Coordenador do Curso Técnico em Informática - IFSertãoPE Campus Salgueiro<br/>
 <br/><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2ehwR6_y8gSbNG1KMHfmKplJSP12oJpufIBrrwM1lSx3X3c4tBpVA6hHG4ayDPzZIQ0oOubDfH" target="_blank">:: Agenda de Atendimento</a>
 <br/><br/>
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,bootstrap,html,css,java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,bootstrap,html,css,java,js,node)](https://skillicons.dev)
 
 
 <hr/>
