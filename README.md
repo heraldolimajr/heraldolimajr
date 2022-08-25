@@ -1,5 +1,6 @@
 ## 👨‍💻 Prof. Heraldo Gonçalves Lima Jr. 
 
+Docente dos cursos de Tecnologia em Sistemas para Internet e Técnico em Informática<br/>
 Mestrando em Educação Profissional e Tecnológica<br/>
 Especialista em Gestão de Tecnologia da Informação<br/>
 Graduado em Licenciatura em Computação e em Análise e Desenvolvimento de Sistemas<br/>
