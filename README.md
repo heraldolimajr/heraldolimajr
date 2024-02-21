@@ -29,6 +29,7 @@ Materiais de aula do curso técnico em <b>Informática</b>:
 <a href = "mailto:heraldo.junior@ifsertao-pe.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/heraldolimajr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br/>  
+E-mail: heraldo.junior@ifsertao-pe.edu.br
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jheraldolimajr.visitor-badge&left_text=MyPageVisitors)
      
