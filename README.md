@@ -1,7 +1,7 @@
 ## 👨‍💻 Prof. Heraldo Gonçalves Lima Jr. 
 
 Docente dos cursos de Tecnologia em Sistemas para Internet e Técnico em Informática<br/>
-Mestrando em Educação Profissional e Tecnológica (PROFEPT/IFSERTÃOPE)<br/>
+Mestre em Educação Profissional e Tecnológica (IFSERTÃOPE)<br/>
 Especialista em Gestão de Tecnologia da Informação (UCAM), Educação Digital (SENAI-SC) e Matemática, suas tecnologias e o mundo do trabalho (UFPI)<br/>
 Graduado em Licenciatura em Computação (IFSERTÃOPE) e em Análise e Desenvolvimento de Sistemas (PITÁGORAS)<br/>
 Coordenador do Curso Técnico em Informática - IFSertãoPE Campus Salgueiro<br/>
