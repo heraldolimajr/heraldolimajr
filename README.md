@@ -1,14 +1,9 @@
 ## 👨‍💻 Prof. Heraldo Gonçalves Lima Jr. 
 
-<b>Professor de Informática no IFSertãoPE</b><br/>
-Doutorando em Informática (UFPB)<br/>
-Mestre em Educação Profissional e Tecnológica (IFSERTÃOPE)<br/>
-Especialista em Gestão de Tecnologia da Informação (UCAM), Educação Digital (SENAI-SC) e Matemática, suas tecnologias e o mundo do trabalho (UFPI)<br/>
-Graduado em Licenciatura em Computação (IFSERTÃOPE) e em Análise e Desenvolvimento de Sistemas (PITÁGORAS)<br/>
-Coordenador do Curso Técnico em Informática - IFSertãoPE Campus Salgueiro<br/>
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,bootstrap,html,css,java,js,nodejs)](https://skillicons.dev)
-
+<b>Computer Science Professor at IFSertãoPE</b><br/>
+Ph.D. Candidate in Informatics (UFPB)
+Master’s in Professional and Technological Education (IFSertãoPE)
+Coordinator of the Technical Program in Informatics - IFSertãoPE, Salgueiro Campus
 
 <hr/>
 
