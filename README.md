@@ -1,8 +1,8 @@
 ## 👨‍💻 Prof. Heraldo Gonçalves Lima Jr. 
 
 <b>Computer Science Professor at IFSertãoPE</b><br/>
-Ph.D. Candidate in Informatics (UFPB)
-Master’s in Professional and Technological Education (IFSertãoPE)
+Ph.D. Candidate in Informatics (UFPB)<br>
+Master’s in Professional and Technological Education (IFSertãoPE)<br>
 Coordinator of the Technical Program in Informatics - IFSertãoPE, Salgueiro Campus
 
 <hr/>
