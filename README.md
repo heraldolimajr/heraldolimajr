@@ -1,6 +1,6 @@
 ## 👨‍💻 Prof. Heraldo Gonçalves Lima Jr. 
 
-<b>Computer Science Professor at IFSertãoPE</b><br/>
+👨🏻‍💻 <b>Computer Science Professor at IFSertãoPE</b><br/>
 Ph.D. Candidate in Informatics (UFPB)<br>
 Master’s in Professional and Technological Education (IFSertãoPE)<br>
 Coordinator of the Technical Program in Informatics - IFSertãoPE, Salgueiro Campus
@@ -33,7 +33,7 @@ Coordinator of the Technical Program in Informatics - IFSertãoPE, Salgueiro Cam
 <a href = "mailto:heraldo.junior@ifsertao-pe.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/heraldolimajr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br/>  
-E-mail: heraldo.junior@ifsertao-pe.edu.br
+📧 E-mail: heraldo.junior@ifsertao-pe.edu.br
 
 
 
