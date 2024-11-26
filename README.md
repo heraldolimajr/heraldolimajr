@@ -1,4 +1,4 @@
-## 👨🏻‍🏫 Prof. Heraldo Gonçalves Lima Jr. 
+# 👨🏻‍💻 Prof. Heraldo Gonçalves Lima Jr. 
 
 <b>Computer Science Professor at IFSertãoPE</b><br/>
 Ph.D. Candidate in Informatics (UFPB)<br>
