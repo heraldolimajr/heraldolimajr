@@ -5,18 +5,14 @@ Ph.D. Candidate in Informatics (UFPB)<br>
 Master’s in Professional and Technological Education (IFSertãoPE)<br>
 Coordinator of the Technical Program in Informatics - IFSertãoPE, Salgueiro Campus
 
-<hr/>
-
-Materiais de aula do curso superior de <b>Tecnologia em Sistemas para Internet</b>:
+▶️ Materiais de aula do curso superior de <b>Tecnologia em Sistemas para Internet</b>:
 - [Indústria 4.0 e Cultura Maker](https://github.com/heraldolimajr/Ind-stria-4.0-e-Cultura-Maker)
 - [Estruturas de Dados](https://github.com/heraldolimajr/EstruturasDeDados)
 - [Sistemas Distribuídos](https://github.com/heraldolimajr/SistemasDistribuidos)
 - [Interação Humano-Computador](https://github.com/heraldolimajr/ihc)
 - [Segurança da Informação](https://github.com/heraldolimajr/SegurancaDaInformacaoSuperior)
 
-<hr/>
-
-Materiais de aula do curso técnico em <b>Informática</b>:
+▶️ Materiais de aula do curso técnico em <b>Informática</b>:
 
 - [Computação Gráfica](https://github.com/heraldolimajr/ComputacaoGrafica)
 - [Lógica de Programação](https://github.com/heraldolimajr/logicaDeProgramacao)
@@ -26,7 +22,7 @@ Materiais de aula do curso técnico em <b>Informática</b>:
 
 <hr/>
 
-Outros Repositórios:
+💻 Outros Repositórios:
 
 - [ABProj - Avaliação da Aprendizagem Baseada em Projetos (Produto Educacional)](https://github.com/heraldolimajr/abproj)
 
