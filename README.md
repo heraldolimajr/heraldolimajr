@@ -3,7 +3,6 @@
 <b>Computer Science Professor at IFSertãoPE</b><br/>
 Ph.D. Candidate in Informatics (UFPB)<br>
 Master’s in Professional and Technological Education (IFSertãoPE)<br>
-Coordinator of the Technical Program in Informatics - IFSertãoPE, Salgueiro Campus
 
 ### ▶️ Materiais de aula do curso superior de <b>Tecnologia em Sistemas para Internet</b>:
 - [Indústria 4.0 e Cultura Maker](https://github.com/heraldolimajr/Ind-stria-4.0-e-Cultura-Maker)
