@@ -19,8 +19,6 @@ Master’s in Professional and Technological Education (IFSertãoPE)<br>
 - [Programação II](#)
 - [Segurança da Informação](https://github.com/heraldolimajr/SegurancaDaInformacaoMedio)
 
-<hr/>
-
 ### 💻 Produtos Educacionais:
 
 - [Produto Educacional: ABProj - Avaliação da Aprendizagem Baseada em Projetos (Produto Educacional)](https://github.com/heraldolimajr/abproj)
@@ -28,7 +26,6 @@ Master’s in Professional and Technological Education (IFSertãoPE)<br>
 ### 💻 Inteligência Artificial:
   
 - [Machine Learning](https://github.com/heraldolimajr/Machine-Learning)
-
 
 <hr/>
 
