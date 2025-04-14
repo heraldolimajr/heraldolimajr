@@ -24,7 +24,7 @@ Master’s in Professional and Technological Education (IFSertãoPE)<br>
 ### 💻 Outros Repositórios:
 
 - [Produto Educacional: ABProj - Avaliação da Aprendizagem Baseada em Projetos (Produto Educacional)](https://github.com/heraldolimajr/abproj)
-- [Inteligência Artificial]([https://github.com/heraldolimajr/ia))
+- [Inteligência Artificial]([https://github.com/heraldolimajr/ia)
 
 
 <hr/>
