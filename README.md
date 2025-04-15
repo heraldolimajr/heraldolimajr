@@ -5,7 +5,7 @@ Ph.D. Candidate in Informatics (UFPB)<br>
 Master’s in Professional and Technological Education (IFSertãoPE)<br>
 
 <details>
-<summary>▶️ <b>Materiais de aula do curso superior de Tecnologia em Sistemas para Internet</b></summary>  
+<summary><b>Materiais de aula do curso superior de Tecnologia em Sistemas para Internet</b> ⏬</summary>  
 - [Indústria 4.0 e Cultura Maker](https://github.com/heraldolimajr/Ind-stria-4.0-e-Cultura-Maker)
 - [Estruturas de Dados](https://github.com/heraldolimajr/EstruturasDeDados)
 - [Sistemas Distribuídos](https://github.com/heraldolimajr/SistemasDistribuidos)
@@ -15,7 +15,7 @@ Master’s in Professional and Technological Education (IFSertãoPE)<br>
 </details>
 
 <details>
-<summary>▶️ <b>Materiais de aula do curso técnico em Informática</b></summary>
+<summary><b>Materiais de aula do curso técnico em Informática</b> ⏬</summary>
 - [Computação Gráfica](https://github.com/heraldolimajr/ComputacaoGrafica)
 - [Lógica de Programação](https://github.com/heraldolimajr/logicaDeProgramacao)
 - [Programação I](https://github.com/heraldolimajr/Programacao1)
@@ -25,14 +25,14 @@ Master’s in Professional and Technological Education (IFSertãoPE)<br>
 </details>
 
 <details>
-<summary>💻 Produtos Educacionais</summary>
+<summary><b>Produtos Educacionais</b> ⏬</summary>
 
 - [Produto Educacional: ABProj - Avaliação da Aprendizagem Baseada em Projetos (Produto Educacional)](https://github.com/heraldolimajr/abproj)
 </details>
 
 
 <details>
-<summary>💻 Inteligência Artificial</summary>
+<summary><b>Inteligência Artificial</b> ⏬</summary>
   
 - [Machine Learning](https://github.com/heraldolimajr/Machine-Learning)
 </details>
