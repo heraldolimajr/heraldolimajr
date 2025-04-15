@@ -6,6 +6,7 @@ Master’s in Professional and Technological Education (IFSertãoPE)<br>
 
 <details>
 <summary>▶️ Materiais de aula do curso superior de <b>Tecnologia em Sistemas para Internet</b></summary>
+  
 - [Indústria 4.0 e Cultura Maker](https://github.com/heraldolimajr/Ind-stria-4.0-e-Cultura-Maker)
 - [Estruturas de Dados](https://github.com/heraldolimajr/EstruturasDeDados)
 - [Sistemas Distribuídos](https://github.com/heraldolimajr/SistemasDistribuidos)
