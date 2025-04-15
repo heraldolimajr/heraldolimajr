@@ -5,7 +5,8 @@ Ph.D. Candidate in Informatics (UFPB)<br>
 Master’s in Professional and Technological Education (IFSertãoPE)<br>
 
 <details>
-<summary>▶️ Materiais de aula do curso superior de <b>Tecnologia em Sistemas para Internet</b></summary>
+<summary>▶️ <b>Materiais de aula do curso superior de Tecnologia em Sistemas para Internet</b></summary>
+
   
 - [Indústria 4.0 e Cultura Maker](https://github.com/heraldolimajr/Ind-stria-4.0-e-Cultura-Maker)
 - [Estruturas de Dados](https://github.com/heraldolimajr/EstruturasDeDados)
@@ -15,13 +16,16 @@ Master’s in Professional and Technological Education (IFSertãoPE)<br>
 
 </details>
 
-### ▶️ Materiais de aula do curso técnico em <b>Informática</b>:
+<summary>▶️ <b>Materiais de aula do curso técnico em Informática</b></summary>
+
 
 - [Computação Gráfica](https://github.com/heraldolimajr/ComputacaoGrafica)
 - [Lógica de Programação](https://github.com/heraldolimajr/logicaDeProgramacao)
 - [Programação I](https://github.com/heraldolimajr/Programacao1)
 - [Programação II](#)
 - [Segurança da Informação](https://github.com/heraldolimajr/SegurancaDaInformacaoMedio)
+
+</details>
 
 ### 💻 Produtos Educacionais:
 
