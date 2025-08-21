@@ -42,7 +42,7 @@ Master’s in Professional and Technological Education (IFSertãoPE)<br>
 <details>
 <summary><b>Pesquisa e Extensão</b> ⏬</summary>
   
-- [Relação de Periódicos Educação/Ensino com Qualis Computação]([https://github.com/heraldolimajr/Machine-Learning](http://abre.ai/periodicos-informatica-educacao))
+- [Relação de Periódicos Educação/Ensino com Qualis Computação](http://abre.ai/periodicos-informatica-educacao)
 </details>
 
 <hr/>
