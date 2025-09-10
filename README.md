@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Prof. Heraldo Gonçalves Lima Jr. 
 
-<b>Computer Science Professor at IFSertãoPE</b><br/>
-Ph.D. Candidate in Informatics (UFPB)<br>
-Master’s in Professional and Technological Education (IFSertãoPE)<br>
+<b>Professor de Informática @ IFSertãoPE</b><br/>
+Doutorando em Informática (UFPB)<br>
+Mestre em Educação Profissional e Tecnológica (IFSertãoPE)<br>
 
 <details>
 <summary><b>Materiais de aula do curso superior de Tecnologia em Sistemas para Internet</b> ⏬</summary>  
