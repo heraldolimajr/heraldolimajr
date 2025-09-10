@@ -37,6 +37,7 @@ Master’s in Professional and Technological Education (IFSertãoPE)<br>
 <summary><b>Inteligência Artificial</b> ⏬</summary>
   
 - [Machine Learning](https://github.com/heraldolimajr/Machine-Learning)
+- [Large language models (LLMs)](https://github.com/heraldolimajr/Large-Language-Models)
 </details>
 
 <details>
