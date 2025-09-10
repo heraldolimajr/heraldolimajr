@@ -4,6 +4,8 @@
 Doutorando em Informática (UFPB)<br>
 Mestre em Educação Profissional e Tecnológica (IFSertãoPE)<br>
 
+> Clique nos links abaixo e acesse os repositótios de materiais de aula e projetos.
+
 <details>
 <summary><b>Materiais de aula do curso superior de Tecnologia em Sistemas para Internet</b> ⏬</summary>  
   
