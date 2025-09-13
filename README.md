@@ -1,8 +1,22 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=heraldolimajr&data=followers,repositories,stars,commits)](https://github.com/heraldolimajr)
 
+<div align="center" width="100%">
+
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=heraldolimajr&data=followers,repositories,stars,commits)](https://github.com/heraldolimajr)
+  
 <b>Professor de Informática @ IFSertãoPE</b><br/>
 Doutorando em Informática (UFPB)<br>
 Mestre em Educação Profissional e Tecnológica (IFSertãoPE)<br>
+
+<a href = "mailto:heraldo.junior@ifsertao-pe.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/heraldolimajr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h1 align="center"></h1>
+
+
+</div>
+
+
+
+
+
 
 > Clique nos links abaixo e acesse os repositótios de materiais de aula e projetos.
 
@@ -47,19 +61,8 @@ Mestre em Educação Profissional e Tecnológica (IFSertãoPE)<br>
   
 - [Relação de Periódicos Educação/Ensino com Qualis Computação](http://abre.ai/periodicos-informatica-educacao)
 </details>
-
-<hr/>
-
-### Contatos:
-<div>
-<a href = "mailto:heraldo.junior@ifsertao-pe.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/heraldolimajr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<br/>  
-📧 E-mail: heraldo.junior@ifsertao-pe.edu.br
-<br/> <br/> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heraldolimajr&layout=compact)
-
+<h1></h1>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=heraldolimajr.heraldolimajr&"/>
 
 
 
