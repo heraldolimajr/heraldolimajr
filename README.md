@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Prof. Heraldo Gonçalves Lima Jr. 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=heraldolimajr&data=followers,repositories,stars,commits)](https://github.com/heraldolimajr)
 
 <b>Professor de Informática @ IFSertãoPE</b><br/>
 Doutorando em Informática (UFPB)<br>
@@ -56,8 +56,9 @@ Mestre em Educação Profissional e Tecnológica (IFSertãoPE)<br>
 </div>
 <br/>  
 📧 E-mail: heraldo.junior@ifsertao-pe.edu.br
+<br/> <br/> 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heraldolimajr&layout=compact)
 
 
 
