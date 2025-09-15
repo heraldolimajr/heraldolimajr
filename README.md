@@ -7,7 +7,9 @@
 Doutorando em Informática (UFPB)<br>
 Mestre em Educação Profissional e Tecnológica (IFSertãoPE)<br>
 
-<a href = "mailto:heraldo.junior@ifsertao-pe.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/heraldolimajr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:heraldo.junior@ifsertao-pe.edu.br)](mailto:heraldo.junior@ifsertao-pe.edu.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heraldolimajr/)](https://www.linkedin.com/in/heraldolimajr/)
+[![Lattes Badge](https://img.shields.io/badge/-Lattes-gray?style=flat-square&logo=GitBook&logoColor=white&link=http://lattes.cnpq.br/2480236969475924)](http://lattes.cnpq.br/2480236969475924)
 <h1 align="center"></h1>
 
 
