@@ -35,7 +35,7 @@ Mestre em Educação Profissional e Tecnológica (IFSertãoPE)<br><br>
 - [Ontologias e Web Semântica](https://github.com/heraldolimajr/Ontologias-e-Web-Semantica)
 
 ### :mag_right: Pesquisa e Extensão
-  
+- [Artigos e Guias para Escrita Científica](https://github.com/heraldolimajr/Metodologia-Cient-fica)
 - [Relação de Periódicos com Escopo Informática/Tecnologia na Educação/Ensino](http://abre.ai/periodicos-informatica-educacao)
 - [Relação de Eventos e Periódicos Computação Percentil Scopus >= 50](https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/)
 
