@@ -29,7 +29,7 @@ Mestre em Educação Profissional e Tecnológica (IFSertãoPE)<br><br>
 ### :books: Produtos Educacionais
 - [Produto Educacional: ABProj - Avaliação da Aprendizagem Baseada em Projetos (Produto Educacional)](https://github.com/heraldolimajr/abproj)
 
-### 🧠 Inteligência Artificial
+### 🤖 Inteligência Artificial
 - [Large language models (LLMs)](https://github.com/heraldolimajr/Large-Language-Models)  
 - [Machine Learning](https://github.com/heraldolimajr/Machine-Learning)
 - [Ontologias e Web Semântica](https://github.com/heraldolimajr/Ontologias-e-Web-Semantica)
